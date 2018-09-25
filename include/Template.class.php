@@ -46,7 +46,7 @@ class Template {
   <link type="text/css" rel="stylesheet" media="screen" href="site.css" />
   <link type="text/css" rel="stylesheet" media="print" href="print.css" />
   <link rel="stylesheet" href="photobox/photobox.css">
-  <link rel="shortcut icon" type="image/x-icon" href="http://www.calaphio.com/apo_favicon.ico" />
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
   <script language="javascript" type="text/javascript" src="popup.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
   <script language="javascript" type="text/javascript" src="bootstrap.min.js"></script>

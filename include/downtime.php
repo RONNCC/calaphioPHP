@@ -9,7 +9,7 @@ if (!isset($_COOKIE['override']) || isset($_COOKIE['override']) && $_COOKIE['ove
 <head>
   <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
   <meta http-equiv="Content-Style-Type" content="text/css" />
-  <link rel="shortcut icon" type="image/x-icon" href="http://www.calaphio.com/apo_favicon.ico" />
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
   <title>Alpha Phi Omega - Gamma Gamma Chapter at University of California Berkeley</title>
 </head>
 <body>
